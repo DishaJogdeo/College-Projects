@@ -5,7 +5,7 @@ import datetime	 #pip install datetime
 import wikipedia as wiki   #pip install wikipedia
 import pyjokes
 import webbrowser #pip install webbrowser
-import os   #pip install os
+import os   #pip install os-sys
 import AppOpener  #pip install AppOpener
 import python_weather #pip install python-weather
 import requests #pip install requests
